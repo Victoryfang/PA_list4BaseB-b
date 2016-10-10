@@ -2,6 +2,7 @@ var shuffleSequence= seq("consent","intro1","intro2","spk0","p1","intro3","p2","
 
 var practiceItemTypes = ["practice"];
 var centerItems = true;
+var completionMessage = "Results sent to server. Your completion code is d894hdf9.";
 
 
 var defaults = [
